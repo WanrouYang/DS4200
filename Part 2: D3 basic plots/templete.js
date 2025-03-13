@@ -101,8 +101,8 @@ socialMedia.then(function(data) {
 
         // Draw box
         svg.append("rect")
-           .attr("x", x - boxWidth / 2)  // Center the box
-           .attr("y", yScale(quantiles.q3)) // Start at Q3 (higher value)
+           .attr("x", x - boxWidth / 2)  
+           .attr("y", yScale(quantiles.q3)) 
            .attr("width", boxWidth)
            .attr("height", Math.abs(yScale(quantiles.q1) - yScale(quantiles.q3))) 
            .attr("stroke", "black")
