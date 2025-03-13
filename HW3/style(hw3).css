@@ -1,0 +1,51 @@
+h1 {
+    font-family: fantasy;
+    text-align: center;
+}
+
+
+p{
+    width: 1000px;
+    margin: 0 auto 20px auto;
+}
+
+img{ 
+    display:block;
+    width: 1000px;
+    margin: 0 auto;
+
+}
+
+h2 {
+    border: 5px solid black;
+    color: black;
+    background-color: lightgray;
+}
+
+h3 {
+    border: 5px solid black;
+    color: black;
+    background-color: lightgray;
+}
+
+
+#ConcertsText{
+    color: black;
+}
+
+.ConcertsMoments {
+    font-family: Helvetica;
+    background-color: lightyellow;
+}
+
+.ConcertsMoments{
+    img{
+    display:block;
+    width: 500px;
+    margin: 0 auto;
+}}
+
+.ConcertsMoments{
+    p{
+    background-color: lightblue;
+}}
