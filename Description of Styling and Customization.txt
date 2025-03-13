@@ -1,0 +1,7 @@
+DS4200 HW3
+
+Hyperlinks of my website
+https://wanrouyang.github.io/DS4200_HW3/
+
+Description of Styling & Customizations
+My website meets all three CSS customization requirements and does even more. I used a fun fantasy font for the title and a clear Helvetica font for the body, making it easy to read. The colors are carefully chosen. The background is a light gray, while bold black borders highlight the subheadings. The concert section has a bright light yellow background, making it stand out, and the light blue paragraphs inside add a fresh touch. To improve the layout, I centered the text and set fixed widths—1000px for paragraphs and 500px for concert photos—to keep everything neat. I also added JavaScript for interactive navigation, making it easier and more enjoyable for visitors to explore the site.
