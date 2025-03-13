@@ -104,7 +104,7 @@ socialMedia.then(function(data) {
            .attr("x", x - boxWidth / 2)  // Center the box
            .attr("y", yScale(quantiles.q3)) // Start at Q3 (higher value)
            .attr("width", boxWidth)
-           .attr("height", Math.abs(yScale(quantiles.q1) - yScale(quantiles.q3))) // Ensure positive height
+           .attr("height", Math.abs(yScale(quantiles.q1) - yScale(quantiles.q3))) 
            .attr("stroke", "black")
            .attr("fill", "lightblue");
 
